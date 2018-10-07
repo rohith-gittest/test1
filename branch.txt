@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hjbjhjhjhvhjvhjvhjvbhjbvh
+=======
+file for branch	
+>>>>>>> master
